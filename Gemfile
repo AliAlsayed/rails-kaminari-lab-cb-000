@@ -11,6 +11,7 @@ gem 'kaminari'
 gem 'turbolinks'
 gem 'sqlite3', '~>1.3.6'
 gem 'faker'
+gem 'rails-controller-testing'
 group :development, :test do
   gem 'rack_session_access'
   gem "capybara"
